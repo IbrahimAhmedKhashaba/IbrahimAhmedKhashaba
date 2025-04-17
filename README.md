@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khashaba</h1>
 <h3 align="center">A passionate Back-End Developer from Egypt 🇪🇬</h3>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFaS7LW_Y3wFA/profile-displayphoto-shrink_400_400/0/1690228370175?e=1750291200&v=beta&t=PvXKv2KiiUqGQAPjpeFtjfgyv77-jQyD0fpSHG3VKds" width="150" height="150" style="border-radius: 50%">
-</p>
 
 ---
 
@@ -38,6 +35,8 @@
 | [🗞️ News Platform](https://github.com/IbrahimAhmedKhashaba/news) | News publishing system with real-time notifications & admin dashboard | Laravel, Livewire, MySQL |
 | [🏥 Hospital Management](https://github.com/IbrahimAhmedKhashaba/hospitals) | Patient and appointment management system with multilingual support | Laravel 11, Repository Pattern |
 | [📄 Invoice System](https://github.com/IbrahimAhmedKhashaba/Invoices-project) | Invoice creation and control panel for SMEs | Laravel, Blade, Ajax |
+| [📝 Task List App](https://github.com/IbrahimAhmedKhashaba/task_list) | Simple task management tool to add/edit/delete daily tasks | Laravel, Blade |
+| [🎓 PHP Training Tasks](https://github.com/IbrahimAhmedKhashaba/php_training_tasks) | Collection of PHP exercises for practice and concept mastery | PHP (OOP, arrays, loops, etc.) |
 
 ---
 
