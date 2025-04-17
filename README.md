@@ -35,6 +35,7 @@
 | [🗞️ News Platform](https://github.com/IbrahimAhmedKhashaba/news) | News publishing system with real-time notifications & admin dashboard | Laravel, Livewire, MySQL |
 | [🏥 Hospital Management](https://github.com/IbrahimAhmedKhashaba/hospitals) | Patient and appointment management system with multilingual support | Laravel 11, Repository Pattern |
 | [📄 Invoice System](https://github.com/IbrahimAhmedKhashaba/Invoices-project) | Invoice creation and control panel for SMEs | Laravel, Blade, Ajax |
+| [🏗️ Heavy Equipment Store](https://github.com/IbrahimAhmedKhashaba/heavy-equipment-store) | E-commerce platform for managing heavy machinery listings, categories, and user interactions | Laravel, MySQL, Blade |
 | [📝 Task List App](https://github.com/IbrahimAhmedKhashaba/task_list) | Simple task management tool to add/edit/delete daily tasks | Laravel, Blade |
 | [🎓 PHP Training Tasks](https://github.com/IbrahimAhmedKhashaba/php_training_tasks) | Collection of PHP exercises for practice and concept mastery | PHP (OOP, arrays, loops, etc.) |
 
