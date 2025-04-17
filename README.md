@@ -38,6 +38,12 @@
 | [🏗️ Heavy Equipment Store](https://github.com/IbrahimAhmedKhashaba/heavy-equipment-store) | E-commerce platform for managing heavy machinery listings, categories, and user interactions | Laravel, MySQL, Blade |
 | [📝 Task List App](https://github.com/IbrahimAhmedKhashaba/task_list) | Simple task management tool to add/edit/delete daily tasks | Laravel, Blade |
 | [🎓 PHP Training Tasks](https://github.com/IbrahimAhmedKhashaba/php_training_tasks) | Collection of PHP exercises for practice and concept mastery | PHP (OOP, arrays, loops, etc.) |
+| [🧾 Invoice API](https://github.com/IbrahimAhmedKhashaba/apiInvoices) | RESTful API for invoice management with Laravel Sanctum & secure endpoints | Laravel, Sanctum, API |
+| [💉 Medical Services App](https://github.com/IbrahimAhmedKhashaba/medical-services) | PHP-native project for doctor-patient appointment system based on city filters | PHP, MySQL |
+| [🛒 E-Commerce Project](https://github.com/IbrahimAhmedKhashaba/e-commerce-project) | JavaScript-based e-commerce frontend (extendable to Laravel back-end) | JS, HTML/CSS |
+| [📚 Courses Back-End](https://github.com/IbrahimAhmedKhashaba/courses-back-end-) | Backend system for managing online courses, categories and content | PHP, Laravel |
+| [📝 To-Do List](https://github.com/IbrahimAhmedKhashaba/toDOList) | Simple task management application using PHP | PHP |
+| [🌐 PHP Native App](https://github.com/IbrahimAhmedKhashaba/php-native) | Core PHP project demonstrating fundamentals of web development | PHP, MySQL |
 
 ---
 
