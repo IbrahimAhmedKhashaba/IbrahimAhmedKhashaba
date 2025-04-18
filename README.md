@@ -25,6 +25,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=xml&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/-Pusher-1F74BD?style=flat&logo=pusher&logoColor=white)
 
 ---
 
