@@ -29,6 +29,8 @@
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=xml&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
 ![Pusher](https://img.shields.io/badge/-Pusher-1F74BD?style=flat&logo=pusher&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+
 
 ---
 
