@@ -65,14 +65,3 @@
 
 ## ⚡ Fun Fact
 > I love solving backend logic challenges and optimizing database queries... almost as much as I love late-night coding sessions ☕
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbv&label=Profile%20views&color=0e75b6&style=flat" alt="nbv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbv" alt="nbv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nbv" target="blank"><img src="https://img.shields.io/twitter/follow/nbv?logo=twitter&style=for-the-badge" alt="nbv" /></a> </p>
