@@ -1,8 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ibrahim Khashaba</h1>
 <h3 align="center">A passionate Back-End Developer from Egypt 🇪🇬</h3>
-
-![My GIF](./assets/imgs/code.gif)
+<div align="center">
+  <img src="./assets/imgs/code.gif" width="500" />
+</div>
 ---
 
 ## 💻 About Me
