@@ -8,28 +8,76 @@
 
 ## 💻 About Me
 
-- 🎓 I'm a Computer Engineering graduate from Modern Academy (GPA 3.44)
-- 💼 Currently working as a **freelance full-stack developer**
-- 🚀 Focused on building secure and scalable **Laravel** back-end systems
-- 📫 Reach me at: **ibrahimahmedkhashaba@gmail.com**
+🎓 Computer Engineering graduate from Modern Academy (GPA 3.44)
+
+💼 Full Stack (Laravel & React) Developer with hands-on experience in ERP, CRM & E-Commerce systems
+
+🚀 Focused on building secure, scalable back-end architectures (APIs, multi-tenant SaaS, integrations)
+
+📫 Reach me at: ibrahimahmedkhashaba@gmail.com
 
 ---
 
 ## 🔧 Technologies & Tools
 
+### 🧩 Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=api&logoColor=white)
+![Sanctum](https://img.shields.io/badge/-Laravel%20Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/-Pusher-1F74BD?style=flat&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=flat&logo=socket.io&logoColor=white)
+![Mail](https://img.shields.io/badge/-Mail%20Services-168DE2?style=flat&logo=gmail&logoColor=white)
+![Debugbar](https://img.shields.io/badge/-Laravel%20Debugbar-CC0000?style=flat&logo=laravel&logoColor=white)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=xml&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white)
-![Pusher](https://img.shields.io/badge/-Pusher-1F74BD?style=flat&logo=pusher&logoColor=white)
+
+---
+
+### 🛠 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-2F8D46?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID%20Principles-5A5A5A?style=flat)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-4A4A4A?style=flat)
+![Repository Pattern](https://img.shields.io/badge/-Repository%20Pattern-0A7EB9?style=flat)
+![Gates & Policies](https://img.shields.io/badge/-Gates%20%26%20Policies-4C4C9D?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+
+---
+
+### 🧪 Testing
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-36648B?style=flat&logo=php&logoColor=white)
+![Testing](https://img.shields.io/badge/-Testing-6DB33F?style=flat&logo=testcafe&logoColor=white)
+
+---
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### 🏢 ERP & SaaS
+![ERP](https://img.shields.io/badge/-ERP%20(Dolibarr)-0C6B4D?style=flat)
+![SaaS](https://img.shields.io/badge/-Multi--Tenant%20SaaS-007ACC?style=flat)
+
+---
+
+### 🔣 Other
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 
 
